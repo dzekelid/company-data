@@ -5,7 +5,7 @@ description: Geographical names are more than labels on maps and road signs. The
   can reveal patterns of settlement, exploration and migration, and mirror outside
   influences to our history - aspects of the heritage and promise of an area that
   might otherwise be overlooked or forgotten by visitors and later generations.
-image: ""
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Company Data
@@ -17,7 +17,7 @@ apis:
 - name: BC Geographical Names
   x-api-slug: bc-geographical-names
   description: this-rest-api-provides-searchable-access-to-information-about-geographical-names-in-the-province-of-british-columbia-including-name-status-and-details-about-the-corresponding-geographic-feature-
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
   humanURL: https://apps.gov.bc.ca/pub/bcgnws/
   baseURL: https://apps.gov.bc.ca//pub/bcgnws
   tags: Geo, Geography, Locations, API Provider, Profiles, General Data
@@ -32,7 +32,7 @@ apis:
     can reveal patterns of settlement, exploration and migration, and mirror outside
     influences to our history - aspects of the heritage and promise of an area that
     might otherwise be overlooked or forgotten by visitors and later generations.
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
   humanURL: https://apps.gov.bc.ca/pub/bcgnws/
   baseURL: https://apps.gov.bc.ca//pub/bcgnws
   tags: Company Data
@@ -45,7 +45,7 @@ apis:
     can reveal patterns of settlement, exploration and migration, and mirror outside
     influences to our history - aspects of the heritage and promise of an area that
     might otherwise be overlooked or forgotten by visitors and later generations.
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
   humanURL: https://apps.gov.bc.ca/pub/bcgnws/
   baseURL: https://apps.gov.bc.ca//pub/geomark
   tags: Company Data
