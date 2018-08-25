@@ -28,19 +28,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-openapi.md
-- name: BC Geographical Names
-  x-api-slug: bc-geographical-names
-  description: Geographical names are more than labels on maps and road signs. They
-    can reveal patterns of settlement, exploration and migration, and mirror outside
-    influences to our history - aspects of the heritage and promise of an area that
-    might otherwise be overlooked or forgotten by visitors and later generations.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
-  humanURL: https://apps.gov.bc.ca/pub/bcgnws/
-  baseURL: https://apps.gov.bc.ca//pub/geomark
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://bbc.api.gallery.streamdata.io

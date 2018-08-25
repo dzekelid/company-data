@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Intrinio
-  x-api-slug: intrinio
-  description: Intelligent Data, On Demand. The financial data platform for developers,
-    investors, students, and educators, with over 200 feeds including real-time, intraday,
-    EOD, and international financial data available via REST API, WebSocket, CSV,
-    Excel, and Goo...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28077-intrinio.jpg
-  humanURL: https://intrinio.com
-  baseURL: https:///
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://international.trade.administration.api.gallery.streamdata.io

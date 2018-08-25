@@ -169,18 +169,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-openapi.md
-- name: GitHub
-  x-api-slug: github
-  description: GitHub brings together the worlds largest community of developers to
-    discover, share, and build better software. From open source projects to private
-    team repositories, were your all-in-one platform for collaborative development.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: https://github.com
-  baseURL: https:///
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/openapi.md
 x-common:
 - type: x--net-library
   url: https://github.com/octokit/octokit.net

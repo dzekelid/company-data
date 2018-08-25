@@ -45,21 +45,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-openapi.md
-- name: Flickr
-  x-api-slug: flickr
-  description: Flickr (pronounced flicker) is an image hosting and video hosting website,
-    and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo
-    in 2005. In addition to being a popular website for users to share and embed personal
-    photographs, and effectively an online community, the service is widely used by
-    photo researchers and by bloggers to host images that they embed in blogs and
-    social media.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
-  humanURL: http://www.flickr.com/
-  baseURL: https://api.flickr.com//services/
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://flat.api.gallery.streamdata.io

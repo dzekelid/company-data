@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/opencorporates/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OpenCorporates
-  x-api-slug: opencorporates
-  description: Free and Open Company Data on 135 million companies and corporations
-    in over 125 jurisdictions, including US, UK, Switzerland, Panama...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg
-  humanURL: http://opencorporates.com
-  baseURL: ://api.opencorporates.com/v0.4/
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/opencorporates/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://opencage.api.gallery.streamdata.io

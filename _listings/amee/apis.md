@@ -24,16 +24,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/companyboardmembers-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/companyboardmembers-get-openapi.md
-- name: AMEE
-  x-api-slug: amee
-  description: Data driven solutions to strengthen supply chain performance and risk.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
-  humanURL: https://www.amee.com
-  baseURL: https:///
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://amee.api.gallery.streamdata.io

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Disqus
-  x-api-slug: disqus
-  description: Disqus offers the best add-on tools for websites to increase engagement.
-    We help publishers power online discussions with comments and earn revenue with
-    native advertising.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus.jpg
-  humanURL: https://disqus.com/
-  baseURL: https:///
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://digitalocean.api.gallery.streamdata.io

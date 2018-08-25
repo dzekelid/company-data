@@ -28,19 +28,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/s1entities-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/s1entities-get-openapi.md
-- name: Geneea
-  x-api-slug: geneea
-  description: Geneea helps you analyze large amounts of text. Whether it is Facebook,
-    blogs, e-mails or legal documents in your archives. Within seconds.     Dont change
-    your business processes. Simply plug in the output of The Interpretor, our powerful
-    software p...
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geneea-logo.png
-  humanURL: https://www.geneea.com
-  baseURL: https://api.geneea.com//
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/openapi.md
 x-common:
 - type: x-website
   url: https://www.geneea.com

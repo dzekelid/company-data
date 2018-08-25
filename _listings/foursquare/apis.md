@@ -42,17 +42,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
-- name: Foursquare
-  x-api-slug: foursquare
-  description: Foursquare helps you find the perfect places to go with friends. Discover
-    the best food, nightlife, and entertainment in your area.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
-  humanURL: http://blog.foursquare.com
-  baseURL: https:///
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/openapi.md
 x-common:
 - type: x-api-json--authoritative
   url: http://apis.io/apisdef/legacy/foursquare.json

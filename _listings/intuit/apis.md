@@ -27,18 +27,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-openapi.md
-- name: Intuit
-  x-api-slug: intuit
-  description: See how the power of Intuit Giants can work for you by joining the
-    over 46 million people already using TurboTax, QuickBooks and Mint to power their
-    financial prosperity.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
-  humanURL: https://intuit.com
-  baseURL: https://DefaultParameterValue//v3/company/DefaultParameterValue
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/openapi.md
 x-common:
 - type: x-postman-collection
   url: https://www.getpostman.com/collections/554420530884cde6b794

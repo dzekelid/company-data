@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/eventbrite/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Eventbrite
-  x-api-slug: eventbrite
-  description: Eventbrite brings people together through live experiences. Discover
-    events that match your passions, or create your own with online ticketing tools.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg
-  humanURL: http://eventbriteapi.com
-  baseURL: https://www.eventbrite.com//%7Bdata-type%7D/
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/eventbrite/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://europeana.api.gallery.streamdata.io
