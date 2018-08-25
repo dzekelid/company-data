@@ -14,23 +14,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Stack Exchange
-  x-api-slug: stack-exchange
-  description: stack-exchange-is-a-network-of-130-qa-communities-including-stack-overflow-
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/253-stack-exchange.jpg
-  humanURL: http://stackexchange.com
-  baseURL: https://api.stackexchange.com//2.2
-  tags: Citations, Answers, Code, Content, My API Stack, Imports, Stack, Media, Forums,
-    Streams, Plugins, Questions, General Data, Relative Data, Service API, Pedestal,
-    Historical Data API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-openapi.md
-- name: Stack Exchange
+  name: Stack Exchange
   x-api-slug: stack-exchange
   description: After someone asks a question, members of the community propose answers.
     Others vote on those answers. Very quickly, the answers with the most votes rise

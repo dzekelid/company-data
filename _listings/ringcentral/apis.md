@@ -17,22 +17,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/apis.md
 specificationVersion: "0.14"
 apis:
-- name: RingCentral Connect Platform API Explorer
-  x-api-slug: ringcentral-connect-platform-api-explorer
-  description: this-is-an-interactive-api-explorer-for-the-ringcentral-connect-platform--to-use-this-service-you-will-need-to-have-a-developer-account---links--a-hrefhttpsnetstorage-ringcentral-comdpwapiexplorerrcplatform-basic-ymlv20180514092722-target-blankringcentral-api-specaspannbspnbspopenapi-fka-swagger-formatnbspnbspnbspnbspspana-hrefhttpsgithub-comoaiopenapispecification-target-blanklearn-more-about-openapia
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
-  humanURL: http://www.ringcentral.com
-  baseURL: https://platform.ringcentral.com//
-  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
-    Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-openapi.md
-- name: RingCentral
+  name: RingCentral
   x-api-slug: ringcentral
   description: 'RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise
     unified communications and collaboration solutions. More flexible and cost-effective

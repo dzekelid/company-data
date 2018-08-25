@@ -12,63 +12,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Foursquare
-  x-api-slug: foursquare
-  description: checkin-explore-your-city-and-connect-people-and-places-bapi-v2-b
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
-  humanURL: http://blog.foursquare.com
-  baseURL: https://api.foursquare.com//v2/
-  tags: Games, Mobile, Social, Coupons, Deals, Local, Merchants, Places, Stack Network,
-    Stack, Getting Started Example, Technology, internet, API Provider, Checkins,
-    Profiles, General Data, Relative Data, Pedestal, Locations, Locations, Historical
-    Data API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-- name: Foursquare
-  x-api-slug: foursquare
-  description: checkin-explore-your-city-and-connect-people-and-places-bapi-v2-b
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
-  humanURL: http://blog.foursquare.com
-  baseURL: https://api.foursquare.com//v2/
-  tags: Games, Mobile, Social, Coupons, Deals, Local, Merchants, Places, Stack Network,
-    Stack, Getting Started Example, Technology, internet, API Provider, Checkins,
-    Profiles, General Data, Relative Data, Pedestal, Locations, Locations, Historical
-    Data API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
-- name: Foursquare
-  x-api-slug: foursquare
-  description: foursquare makes the real world easier to use. We build tools that
-    help you keep up with friends, discover what???s nearby, save money and unlock
-    deals. Whether you???re setting off on a trip around the world, coordinating a
-    night out with friends, or trying to pick out the best dish at your local restaurant,
-    foursquare is the perfect companion. The foursquare API gives you access to all
-    of the data used by the foursquare mobile applications, and, in some cases, even
-    more.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
-  humanURL: http://blog.foursquare.com
-  baseURL: https://api.foursquare.com//v2/
-  tags: Company Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/openapi.md
-- name: Foursquare Merchant
+  name: Foursquare Merchant
   x-api-slug: foursquare-merchant
   description: The foursquare Merchant Platform helps developers work with venue managers
     to manage specials and venue information and build experiences for customers that
