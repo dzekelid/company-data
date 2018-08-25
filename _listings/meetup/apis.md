@@ -24,6 +24,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/meetup/2venues-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/meetup/2venues-get-openapi.md
 - name: Meetup
   x-api-slug: meetup
   description: Find Meetups so you can do more of what matters to you. Or create your

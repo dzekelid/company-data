@@ -56,6 +56,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/social-mediaverify-json-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/social-mediaverify-json-get-openapi.md
 - name: U.S. Digital Registry Social Media API
   x-api-slug: u-s--digital-registry-social-media-api
   description: Whether for access to emergency, financial or education public services,

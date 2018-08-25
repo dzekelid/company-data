@@ -17,8 +17,8 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Attom Data Solutions API
-  x-api-slug: attom-data-solutions-api
+- name: ""
+  x-api-slug: ""
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
   humanURL: https://api.developer.attomdata.com
@@ -28,6 +28,8 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-openapi.md
 - name: Attom Data Solutions API
