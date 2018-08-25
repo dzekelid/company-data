@@ -16,9 +16,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Flickr
-  x-api-slug: flickr
-  description: explore-upload-and-organize-photos-on-flickr
+- name: Flickr = Places Get Info By Url
+  x-api-slug: restmethodflickr-places-getinfobyurl-get
+  description: Lookup information about a place, by its flickr.com/places URL.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
   humanURL: http://www.flickr.com/
   baseURL: https://api.flickr.com//services/
@@ -32,9 +32,10 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
-- name: Flickr
-  x-api-slug: flickr
-  description: explore-upload-and-organize-photos-on-flickr
+- name: Flickr = Places Resolve Place U R L
+  x-api-slug: restmethodflickr-places-resolveplaceurl-get
+  description: Find Flickr Places information by Place URL. This method has been deprecated.
+    It won't be removed but you should use flickr.places.getInfo instead.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
   humanURL: http://www.flickr.com/
   baseURL: https://api.flickr.com//services/
@@ -42,12 +43,6 @@ apis:
     Started Example, API Provider, Photos, Photos, Profiles, General Data, Relative
     Data, Pedestal, Historical Data API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-postman.md
   - type: x-openapi-spec

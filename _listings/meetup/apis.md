@@ -14,20 +14,6 @@ specificationVersion: "0.14"
 apis:
 - name: Meetup
   x-api-slug: meetup
-  description: the-meetup-api-provides-simple-restful-http-and-streaming-interfaces-for-exploring-and-interacting-meetup-platform-from-your-own-apps--the-api-is-a-set-of-core-methods-and-a-common-request-format--these-are-combined-to-form-a-url-that-returns-the-information-you-want--
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg
-  humanURL: http://meetup.com
-  baseURL: https://api.meetup.com//
-  tags: Meetups, Events, My API Stack, Stack Network, Stack, Media, Marketplace, internet,
-    API Provider, API Service Provider, Profiles, General Data, Relative Data, Service
-    API, Pedestal, Historical Data API, Relative StreamRank, Streams
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/meetup/2venues-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/meetup/2venues-get-openapi.md
-- name: Meetup
-  x-api-slug: meetup
   description: Find Meetups so you can do more of what matters to you. Or create your
     own group and meet people near you who share your interests.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg

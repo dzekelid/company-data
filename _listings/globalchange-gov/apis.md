@@ -30,9 +30,9 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/openapi.md
-- name: Global Change Information System API
-  x-api-slug: global-change-information-system-api
-  description: who-we-are-what-the-gcis-is-and-how-we-use-identifiers-and-semantic-information-to-provide-points-of-reference-and-traceability--examples-and-tutorials-for-using-this-system-as-a-researcher-citizen-scientist-application-developer-or-information-theorist--a-description-of-how-the-information-is-structured-including-the-overlaps-between-relational-and-semantic-representations-of-the-information--complete-documentation-for-the-api-including-methods-for-browsing-and-finding-resources-
+- name: Global Change Information System API = Get a representation of an organization.
+  x-api-slug: organizationorganization-identifier-get
+  description: Get JSON which represents the structure of an organization.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
   humanURL: http://globalchange.gov/
   baseURL: https://data.globalchange.gov//
@@ -45,21 +45,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
-- name: Global Change Information System API
-  x-api-slug: global-change-information-system-api
-  description: who-we-are-what-the-gcis-is-and-how-we-use-identifiers-and-semantic-information-to-provide-points-of-reference-and-traceability--examples-and-tutorials-for-using-this-system-as-a-researcher-citizen-scientist-application-developer-or-information-theorist--a-description-of-how-the-information-is-structured-including-the-overlaps-between-relational-and-semantic-representations-of-the-information--complete-documentation-for-the-api-including-methods-for-browsing-and-finding-resources-
+- name: Global Change Information System API = Show contributions of a certain type
+    by an organization
+  x-api-slug: organizationorganization-identifiercontributionsrole-type-identifierresource-get
+  description: Given a resource (dataset, report, etc.) and a role (editor, etc),
+    and an identifier for an organization, show the resources to which the organization
+    has contributed in that role.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
   humanURL: http://globalchange.gov/
   baseURL: https://data.globalchange.gov//
   tags: Federal Government, Federal Government, Stack Network, API Provider, Profiles,
     General Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-postman.md
   - type: x-openapi-spec

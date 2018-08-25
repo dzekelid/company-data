@@ -14,9 +14,11 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/apis.md
 specificationVersion: "0.14"
 apis:
-- name: BC Geographical Names
-  x-api-slug: bc-geographical-names
-  description: this-rest-api-provides-searchable-access-to-information-about-geographical-names-in-the-province-of-british-columbia-including-name-status-and-details-about-the-corresponding-geographic-feature-
+- name: BC Geographical Names = Search by name, limit to unofficial names only
+  x-api-slug: namesnotofficialsearch-get
+  description: Search for information about unofficial geographical names by the text
+    of the name itself.  Various options and filter parameters are available to refine
+    the search.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
   humanURL: https://apps.gov.bc.ca/pub/bcgnws/
   baseURL: https://apps.gov.bc.ca//pub/bcgnws

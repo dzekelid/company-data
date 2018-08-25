@@ -12,9 +12,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Foursquare
-  x-api-slug: foursquare
-  description: checkin-explore-your-city-and-connect-people-and-places-bapi-v2-b
+- name: Foursquare = Post Venues Add
+  x-api-slug: venuesadd-post
+  description: /venues/{VENUE_ID}
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
   humanURL: http://blog.foursquare.com
   baseURL: https://api.foursquare.com//v2/
@@ -29,9 +29,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-- name: Foursquare
-  x-api-slug: foursquare
-  description: checkin-explore-your-city-and-connect-people-and-places-bapi-v2-b
+- name: Foursquare = Get Venues Search
+  x-api-slug: venuessearch-get
+  description: /venues/managed
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
   humanURL: http://blog.foursquare.com
   baseURL: https://api.foursquare.com//v2/
@@ -40,12 +40,6 @@ apis:
     Profiles, General Data, Relative Data, Pedestal, Locations, Locations, Historical
     Data API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-postman.md
   - type: x-openapi-spec

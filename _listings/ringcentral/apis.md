@@ -17,9 +17,16 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/apis.md
 specificationVersion: "0.14"
 apis:
-- name: RingCentral Connect Platform API Explorer
-  x-api-slug: ringcentral-connect-platform-api-explorer
-  description: this-is-an-interactive-api-explorer-for-the-ringcentral-connect-platform--to-use-this-service-you-will-need-to-have-a-developer-account---links--a-hrefhttpsnetstorage-ringcentral-comdpwapiexplorerrcplatform-basic-ymlv20180514092722-target-blankringcentral-api-specaspannbspnbspopenapi-fka-swagger-formatnbspnbspnbspnbspspana-hrefhttpsgithub-comoaiopenapispecification-target-blanklearn-more-about-openapia
+- name: RingCentral Connect Platform API Explorer = Get Company Info
+  x-api-slug: restapiv1-0glipcompaniescompanyid-get
+  description: |-
+    Returns a company by ID.
+    App Permission
+    Glip
+    User Permission
+    Glip
+    Usage Plan Group
+    Light
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
   humanURL: http://www.ringcentral.com
   baseURL: https://platform.ringcentral.com//

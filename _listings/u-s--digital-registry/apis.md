@@ -48,18 +48,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/openapi.md
 - name: U.S. Digital Registry Social Media API
   x-api-slug: u-s--digital-registry-social-media-api
-  description: provides-access-to-the-social-media-accounts-for-top-federal-agencies-
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/digital-gov-logo.jpeg
-  humanURL: https://usdigitalregistry.digitalgov.gov
-  baseURL: https://usdigitalregistry.digitalgov.gov//api/v1
-  tags: Federal Government   GSA, Stack Network, General Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/social-mediaverify-json-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/social-mediaverify-json-get-openapi.md
-- name: U.S. Digital Registry Social Media API
-  x-api-slug: u-s--digital-registry-social-media-api
   description: Whether for access to emergency, financial or education public services,
     users need to trust they are engaging with official U.S. government digital accounts.
     The U.S. Digital Registry serves as the authoritative resource for agencies, citizens
