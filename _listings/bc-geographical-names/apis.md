@@ -14,7 +14,34 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/apis.md
 specificationVersion: "0.14"
 apis:
-  name: Geo Mark Web Service
+- name: BC Geographical Names
+  x-api-slug: bc-geographical-names
+  description: this-rest-api-provides-searchable-access-to-information-about-geographical-names-in-the-province-of-british-columbia-including-name-status-and-details-about-the-corresponding-geographic-feature-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
+  humanURL: https://apps.gov.bc.ca/pub/bcgnws/
+  baseURL: https://apps.gov.bc.ca//pub/bcgnws
+  tags: Geo, Geography, Locations, API Provider, Profiles, General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-openapi.md
+- name: BC Geographical Names
+  x-api-slug: bc-geographical-names
+  description: Geographical names are more than labels on maps and road signs. They
+    can reveal patterns of settlement, exploration and migration, and mirror outside
+    influences to our history - aspects of the heritage and promise of an area that
+    might otherwise be overlooked or forgotten by visitors and later generations.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/british-columbia.png
+  humanURL: https://apps.gov.bc.ca/pub/bcgnws/
+  baseURL: https://apps.gov.bc.ca//pub/bcgnws
+  tags: Company Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/openapi.md
+- name: Geo Mark Web Service
   x-api-slug: geo-mark-web-service
   description: Geographical names are more than labels on maps and road signs. They
     can reveal patterns of settlement, exploration and migration, and mirror outside
