@@ -1,11 +1,11 @@
-title: Streamdata API Gallery - 311
+title: Streamdata API Gallery - Company Data
 description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
-url: 311.streamdata.gallery
-tag: 311
+url: company.data.streamdata.gallery
+tag: Company Data
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-topics
-github_repo: 311
+github_repo: company-data
 github_branch: master
 collections:
   listings:
