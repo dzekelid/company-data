@@ -17,7 +17,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/apis.md
 specificationVersion: "0.14"
 apis:
-- name: ' = Returns POIs based on point.'
+- name: ' - Returns POIs based on point.'
   x-api-slug: poipoint-get
   description: This search returns a list of POI in proximity to a latitude/longitude.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg

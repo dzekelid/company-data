@@ -12,7 +12,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Foursquare = Post Venues Add
+- name: Foursquare - Post Venues Add
   x-api-slug: venuesadd-post
   description: /venues/{VENUE_ID}
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
@@ -27,7 +27,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-- name: Foursquare = Get Venues Search
+- name: Foursquare - Get Venues Search
   x-api-slug: venuessearch-get
   description: /venues/managed
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg

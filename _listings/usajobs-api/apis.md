@@ -15,7 +15,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/usajobs-api/apis.md
 specificationVersion: "0.14"
 apis:
-- name: USAJobs API = Search Jobs
+- name: USAJobs API - Search Jobs
   x-api-slug: jobssearch-json-get
   description: his Jobs API allows you to tap into a list of current jobs openings
     with the government.

@@ -14,7 +14,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Global Change Information System API = Get a representation of an organization.
+- name: Global Change Information System API - Get a representation of an organization.
   x-api-slug: organizationorganization-identifier-get
   description: Get JSON which represents the structure of an organization.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
@@ -27,7 +27,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
-- name: Global Change Information System API = Show contributions of a certain type
+- name: Global Change Information System API - Show contributions of a certain type
     by an organization
   x-api-slug: organizationorganization-identifiercontributionsrole-type-identifierresource-get
   description: Given a resource (dataset, report, etc.) and a role (editor, etc),

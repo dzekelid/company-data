@@ -17,7 +17,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Data.gov API = Get Organizations Org
+- name: Data.gov API - Get Organizations Org
   x-api-slug: organizationsorg-get
   description: Get a organization given its identifier
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
@@ -30,7 +30,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-openapi.md
-- name: Data.gov API = Get Organizations Org Datasets
+- name: Data.gov API - Get Organizations Org Datasets
   x-api-slug: organizationsorgdatasets-get
   description: List organization datasets (including private ones when member)
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
@@ -43,7 +43,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgdatasets-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgdatasets-get-openapi.md
-- name: Data.gov API = Add Organizations Org Logo
+- name: Data.gov API - Add Organizations Org Logo
   x-api-slug: organizationsorglogo-post
   description: Upload a new logo
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
@@ -56,7 +56,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-post-openapi.md
-- name: Data.gov API = Put Organizations Org Logo
+- name: Data.gov API - Put Organizations Org Logo
   x-api-slug: organizationsorglogo-put
   description: Set the logo BBox
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
@@ -69,7 +69,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-put-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-put-openapi.md
-- name: Data.gov API = Get Organizations Org Membership
+- name: Data.gov API - Get Organizations Org Membership
   x-api-slug: organizationsorgmembership-get
   description: List membership requests for a given organization
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
@@ -82,7 +82,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgmembership-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgmembership-get-openapi.md
-- name: Data.gov API = Get Organizations Org Reuses
+- name: Data.gov API - Get Organizations Org Reuses
   x-api-slug: organizationsorgreuses-get
   description: List organization reuses (including private ones when member)
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png

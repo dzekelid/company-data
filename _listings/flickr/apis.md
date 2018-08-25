@@ -16,7 +16,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Flickr = Places Get Info By Url
+- name: Flickr - Places Get Info By Url
   x-api-slug: restmethodflickr-places-getinfobyurl-get
   description: Lookup information about a place, by its flickr.com/places URL.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
@@ -30,7 +30,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
-- name: Flickr = Places Resolve Place U R L
+- name: Flickr - Places Resolve Place U R L
   x-api-slug: restmethodflickr-places-resolveplaceurl-get
   description: Find Flickr Places information by Place URL. This method has been deprecated.
     It won't be removed but you should use flickr.places.getInfo instead.

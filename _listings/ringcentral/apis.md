@@ -17,7 +17,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/apis.md
 specificationVersion: "0.14"
 apis:
-- name: RingCentral Connect Platform API Explorer = Get Company Info
+- name: RingCentral Connect Platform API Explorer - Get Company Info
   x-api-slug: restapiv1-0glipcompaniescompanyid-get
   description: |-
     Returns a company by ID.

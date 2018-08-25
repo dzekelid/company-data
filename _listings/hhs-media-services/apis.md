@@ -13,7 +13,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/hhs-media-services/apis.md
 specificationVersion: "0.14"
 apis:
-- name: HHS Media Services = Get MediaItems
+- name: HHS Media Services - Get MediaItems
   x-api-slug: resourcesmedia-json-get
   description: Returns the list of MediaItems matching the specified query parameters.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hhs-media-services.png

@@ -14,7 +14,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Stack Exchange = Advanced Search
+- name: Stack Exchange - Advanced Search
   x-api-slug: searchadvanced-get
   description: "Searches a site for any questions which fit the given criteria.\n
     \nSearch criteria are expressed using the following parameters:\n  - q - a free

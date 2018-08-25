@@ -14,7 +14,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Geneea Natural Language Processing = Get Entities
+- name: Geneea Natural Language Processing - Get Entities
   x-api-slug: s1entities-get
   description: Performs named-entity recognition on the given document.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geneea-logo.png

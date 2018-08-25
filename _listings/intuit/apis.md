@@ -13,7 +13,7 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/apis.md
 specificationVersion: "0.14"
 apis:
-- name: QuickBooks Online V3 API = Get Company
+- name: QuickBooks Online V3 API - Get Company
   x-api-slug: companyinfocompanyid-get
   description: 'Method : GET'
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg
