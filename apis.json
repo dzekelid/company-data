@@ -27,10 +27,6 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/company-data\/master\/_listings\/attom\/poipoint-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/company-data\/master\/_listings\/attom\/poipoint-get-openapi.md"
 				}
 			]
 		},

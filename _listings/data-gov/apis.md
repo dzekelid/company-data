@@ -30,8 +30,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-openapi.md
 - name: Data.gov API = Get Organizations Org Datasets
   x-api-slug: organizationsorgdatasets-get
   description: List organization datasets (including private ones when member)
@@ -43,8 +41,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgdatasets-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgdatasets-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgdatasets-get-openapi.md
 - name: Data.gov API = Add Organizations Org Logo
@@ -60,8 +56,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-post-openapi.md
 - name: Data.gov API = Put Organizations Org Logo
   x-api-slug: organizationsorglogo-put
   description: Set the logo BBox
@@ -73,8 +67,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-put-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-put-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorglogo-put-openapi.md
 - name: Data.gov API = Get Organizations Org Membership
@@ -90,8 +82,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgmembership-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgmembership-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgmembership-get-openapi.md
 - name: Data.gov API = Get Organizations Org Reuses
   x-api-slug: organizationsorgreuses-get
   description: List organization reuses (including private ones when member)
@@ -103,8 +93,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgreuses-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgreuses-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgreuses-get-openapi.md
 - name: Data.gov API

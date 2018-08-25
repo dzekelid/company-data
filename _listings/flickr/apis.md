@@ -30,8 +30,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-getinfobyurl-get-openapi.md
 - name: Flickr = Places Resolve Place U R L
   x-api-slug: restmethodflickr-places-resolveplaceurl-get
   description: Find Flickr Places information by Place URL. This method has been deprecated.
@@ -45,8 +43,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-openapi.md
 - name: Flickr

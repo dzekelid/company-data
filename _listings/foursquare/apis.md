@@ -27,8 +27,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuesadd-post-openapi.md
 - name: Foursquare = Get Venues Search
   x-api-slug: venuessearch-get
   description: /venues/managed
@@ -42,8 +40,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
 - name: Foursquare

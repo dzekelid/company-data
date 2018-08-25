@@ -37,8 +37,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/ringcentral/restapiv1-0glipcompaniescompanyid-get-openapi.md
 - name: RingCentral
   x-api-slug: ringcentral
   description: 'RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise

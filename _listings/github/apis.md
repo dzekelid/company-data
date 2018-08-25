@@ -29,8 +29,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgevents-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgevents-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgevents-get-openapi.md
 - name: GitHub = Get Orgs Org Issues
   x-api-slug: orgsorgissues-get
   description: |-
@@ -47,8 +45,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgissues-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgissues-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgissues-get-openapi.md
 - name: GitHub = Get Orgs Org Members
@@ -73,8 +69,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembers-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembers-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembers-get-openapi.md
 - name: GitHub = Get Orgs Org Members Username
   x-api-slug: orgsorgmembersusername-get
   description: Check if a user is, publicly or privately, a member of the organization.
@@ -89,8 +83,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembersusername-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembersusername-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgmembersusername-get-openapi.md
 - name: GitHub = Get Orgs Org Public Members
@@ -112,8 +104,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-members-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-members-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-members-get-openapi.md
 - name: GitHub = Get Orgs Org Public Members Username
   x-api-slug: orgsorgpublic-membersusername-get
   description: Check public membership.
@@ -128,8 +118,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-membersusername-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-membersusername-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgpublic-membersusername-get-openapi.md
 - name: GitHub = Get Orgs Org Repos
@@ -148,8 +136,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgrepos-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgrepos-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgrepos-get-openapi.md
 - name: GitHub = Get Orgs Org Teams
   x-api-slug: orgsorgteams-get
   description: List teams.
@@ -164,8 +150,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgteams-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgteams-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/orgsorgteams-get-openapi.md
 - name: GitHub = Get Users Username Events Orgs Org
@@ -183,8 +167,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-openapi.md
 - name: Github

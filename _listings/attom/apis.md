@@ -30,8 +30,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-openapi.md
 - name: Attom Data Solutions API
   x-api-slug: attom-data-solutions-api
   description: 'Search public property records including real estate data: sale, ownership,

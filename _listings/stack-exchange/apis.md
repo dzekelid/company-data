@@ -53,8 +53,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/stack-exchange/searchadvanced-get-openapi.md
 - name: Stack Exchange
   x-api-slug: stack-exchange
   description: After someone asks a question, members of the community propose answers.

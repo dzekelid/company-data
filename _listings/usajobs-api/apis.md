@@ -28,8 +28,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/usajobs-api/jobssearch-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/usajobs-api/jobssearch-json-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/usajobs-api/jobssearch-json-get-openapi.md
 - name: USAJobs API
   x-api-slug: usajobs-api
   description: Federal, state, and local government agencies are hiring and have thousands

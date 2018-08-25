@@ -27,8 +27,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-openapi.md
 - name: QuickBooks Online V3 API
   x-api-slug: quickbooks-online-v3-api
   description: See how the power of Intuit Giants can work for you by joining the

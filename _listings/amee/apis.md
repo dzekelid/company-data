@@ -24,8 +24,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/companyboardmembers-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/companyboardmembers-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/amee/companyboardmembers-get-openapi.md
 - name: AMEE Company API
   x-api-slug: amee-company-api
   description: Data driven solutions to strengthen supply chain performance and risk.

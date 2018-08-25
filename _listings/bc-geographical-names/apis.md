@@ -28,8 +28,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/bc-geographical-names/namesnotofficialsearch-get-openapi.md
 - name: BC Geographical Names
   x-api-slug: bc-geographical-names
   description: Geographical names are more than labels on maps and road signs. They

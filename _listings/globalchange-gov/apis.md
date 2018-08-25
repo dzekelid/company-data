@@ -43,8 +43,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifier-get-openapi.md
 - name: Global Change Information System API = Show contributions of a certain type
     by an organization
   x-api-slug: organizationorganization-identifiercontributionsrole-type-identifierresource-get
@@ -59,8 +57,6 @@ apis:
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-openapi.md
 - name: Global Change Information System API

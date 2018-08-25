@@ -25,8 +25,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/hhs-media-services/resourcesmedia-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/hhs-media-services/resourcesmedia-json-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/hhs-media-services/resourcesmedia-json-get-openapi.md
 - name: HHS Media Services
   x-api-slug: hhs-media-services
   description: Use this API platform to create sites with text and multimedia content
