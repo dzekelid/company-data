@@ -16,8 +16,8 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/u-s--digital-registry/apis.md
 specificationVersion: "0.14"
 apis:
-- name: U.S. Digital Registry Tag API
-  x-api-slug: u-s--digital-registry-tag-api
+- name: U.S. Digital Registry
+  x-api-slug: u-s--digital-registry
   description: Whether for access to emergency, financial or education public services,
     users need to trust they are engaging with official U.S. government digital accounts.
     The U.S. Digital Registry serves as the authoritative resource for agencies, citizens

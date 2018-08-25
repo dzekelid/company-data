@@ -27,8 +27,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intuit/companyinfocompanyid-get-openapi.md
-- name: QuickBooks Online V3 API
-  x-api-slug: quickbooks-online-v3-api
+- name: Intuit
+  x-api-slug: intuit
   description: See how the power of Intuit Giants can work for you by joining the
     over 46 million people already using TurboTax, QuickBooks and Mint to power their
     financial prosperity.

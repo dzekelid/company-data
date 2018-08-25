@@ -169,8 +169,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/github/usersusernameeventsorgsorg-get-openapi.md
-- name: GitHub Get Users Username Orgs (stream)
-  x-api-slug: github-get-users-username-orgs-stream
+- name: GitHub
+  x-api-slug: github
   description: GitHub brings together the worlds largest community of developers to
     discover, share, and build better software. From open source projects to private
     team repositories, were your all-in-one platform for collaborative development.

@@ -13,8 +13,8 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Disqus Threads ListPosts (stream)
-  x-api-slug: disqus-threads-listposts-stream
+- name: Disqus
+  x-api-slug: disqus
   description: Disqus offers the best add-on tools for websites to increase engagement.
     We help publishers power online discussions with comments and earn revenue with
     native advertising.

@@ -12,8 +12,8 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/meetup/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Meetup Venues (stream)
-  x-api-slug: meetup-venues-stream
+- name: Meetup
+  x-api-slug: meetup
   description: Find Meetups so you can do more of what matters to you. Or create your
     own group and meet people near you who share your interests.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg

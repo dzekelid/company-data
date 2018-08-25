@@ -47,10 +47,12 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/flickr/restmethodflickr-places-resolveplaceurl-get-openapi.md
 - name: Flickr
   x-api-slug: flickr
-  description: The Flickr API consists of a set of callable methods, and some API
-    endpoints.  To perform an action using the Flickr API, you need to select a calling
-    convention, send a request to its endpoint specifying a method and some arguments,
-    and will receive a formatted response.
+  description: Flickr (pronounced flicker) is an image hosting and video hosting website,
+    and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo
+    in 2005. In addition to being a popular website for users to share and embed personal
+    photographs, and effectively an online community, the service is widely used by
+    photo researchers and by bloggers to host images that they embed in blogs and
+    social media.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
   humanURL: http://www.flickr.com/
   baseURL: https://api.flickr.com//services/

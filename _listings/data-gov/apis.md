@@ -95,8 +95,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgreuses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgreuses-get-openapi.md
-- name: Data.gov API
-  x-api-slug: data-gov-api
+- name: Data.Gov
+  x-api-slug: data-gov
   description: data.gov is a U.S. government website launched in late May 2009 by
     the then Federal Chief Information Officer (CIO) of the United States, Vivek Kundra.
     According to its website, The purpose of data.gov is to increase public access

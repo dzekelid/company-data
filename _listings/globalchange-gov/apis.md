@@ -43,8 +43,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/globalchange-gov/organizationorganization-identifiercontributionsrole-type-identifierresource-get-openapi.md
-- name: Global Change Information System API
-  x-api-slug: global-change-information-system-api
+- name: GlobalChange.gov
+  x-api-slug: globalchange-gov
   description: The U.S. Global Change Research Program (USGCRP) was established by
     Presidential Initiative in 1989 and mandated by Congress in the Global Change
     Research Act (GCRA) of 1990 to &ldquo;assist the Nation and the world to understand,

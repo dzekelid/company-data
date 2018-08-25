@@ -30,8 +30,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/attom/poipoint-get-openapi.md
-- name: Attom Data Solutions API
-  x-api-slug: attom-data-solutions-api
+- name: ATTOM
+  x-api-slug: attom
   description: 'Search public property records including real estate data: sale, ownership,
     tax, and more - for more than 150 million U.S. properties. ATTOM Data Solutions
     is the curator of ATTOM, a multi-sourced national property data warehouse that

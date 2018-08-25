@@ -28,8 +28,8 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/s1entities-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/geneea/s1entities-get-openapi.md
-- name: Geneea Natural Language Processing
-  x-api-slug: geneea-natural-language-processing
+- name: Geneea
+  x-api-slug: geneea
   description: Geneea helps you analyze large amounts of text. Whether it is Facebook,
     blogs, e-mails or legal documents in your archives. Within seconds.     Dont change
     your business processes. Simply plug in the output of The Interpretor, our powerful

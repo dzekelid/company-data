@@ -14,12 +14,8 @@ specificationVersion: "0.14"
 apis:
 - name: OpenCorporates
   x-api-slug: opencorporates
-  description: OpenCorporates is a database of corporate data. OpenCorporates offers
-    users the ability to search for information on 30 million corporations from around
-    the world. Users can also search by type of corporation. The OpenCorporates API
-    allows developers to access and integrate the data and functionality of OpenCorporates
-    with other applications. Some example API methods include searching and retrieving
-    information on corporation by type, jurisdiction, and company ID.
+  description: Free and Open Company Data on 135 million companies and corporations
+    in over 125 jurisdictions, including US, UK, Switzerland, Panama...
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg
   humanURL: http://opencorporates.com
   baseURL: ://api.opencorporates.com/v0.4/

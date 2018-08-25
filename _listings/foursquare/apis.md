@@ -42,11 +42,10 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/foursquare/venuessearch-get-openapi.md
-- name: Foursquare Merchant
-  x-api-slug: foursquare-merchant
-  description: The foursquare Merchant Platform helps developers work with venue managers
-    to manage specials and venue information and build experiences for customers that
-    respond to check-ins.
+- name: Foursquare
+  x-api-slug: foursquare
+  description: Foursquare helps you find the perfect places to go with friends. Discover
+    the best food, nightlife, and entertainment in your area.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg
   humanURL: http://blog.foursquare.com
   baseURL: https:///

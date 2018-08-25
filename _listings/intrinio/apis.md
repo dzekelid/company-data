@@ -14,8 +14,8 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Intrinio Securities (stream)
-  x-api-slug: intrinio-securities-stream
+- name: Intrinio
+  x-api-slug: intrinio
   description: Intelligent Data, On Demand. The financial data platform for developers,
     investors, students, and educators, with over 200 feeds including real-time, intraday,
     EOD, and international financial data available via REST API, WebSocket, CSV,
