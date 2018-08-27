@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Company Data
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -30,6 +30,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-get-openapi.md
+- name: Data.gov API - Put Organizations Org
+  x-api-slug: organizationsorg-put
+  description: Update a organization given its identifier
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
+  humanURL: http://data.gov/
+  baseURL: https://catalog.data.gov//api/3/
+  tags: Federal Government, Federal Government, Federal Government   GSA, Stack Network,
+    Data Provider, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorg-put-openapi.md
+- name: Data.gov API - Add Organizations Org Badges
+  x-api-slug: organizationsorgbadges-post
+  description: Create a new badge for a given organization
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
+  humanURL: http://data.gov/
+  baseURL: https://catalog.data.gov//api/3/
+  tags: Federal Government, Federal Government, Federal Government   GSA, Stack Network,
+    Data Provider, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/data-gov/organizationsorgbadges-post-openapi.md
 - name: Data.gov API - Get Organizations Org Datasets
   x-api-slug: organizationsorgdatasets-get
   description: List organization datasets (including private ones when member)

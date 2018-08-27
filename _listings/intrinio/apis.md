@@ -5,16 +5,59 @@ description: Intelligent Data, On Demand. The financial data platform for develo
   investors, students, and educators, with over 200 feeds including real-time, intraday,
   EOD, and international financial data available via REST API, WebSocket, CSV, Excel,
   and Goo...
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28077-intrinio.jpg
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
 x-kinRank: "8"
 x-alexaRank: "303229"
 tags: Company Data
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Intrinio - Executive Master
+  x-api-slug: executives-get
+  description: Returns a list of all executives and their unique executive identifier,
+    including both U.S. and International executives.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/executives-get-openapi.md
+- name: Intrinio - Company Executive Contacts
+  x-api-slug: executivescompanies-get
+  description: Returns a list of all information for an executive and their related
+    companies.  Information includes the unique Intrinio executive company identifier,
+    and detailed contact information for the executive at a specified company.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/executivescompanies-get-openapi.md
+- name: Intrinio - Company Executive Roles
+  x-api-slug: executivesroles-get
+  description: For a specific executive company identifier, returns a list of all
+    roles within the company.  For example, an executive may be the Chief Executive
+    Officer, a Director, and the Chairman of the Board of Directors.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/intrinio/executivesroles-get-openapi.md
 x-common:
+- type: x-website
+  url: http://www.intrinio.com
 - type: x-api-gallery
   url: http://international.trade.administration.api.gallery.streamdata.io
 - type: x-api-stack

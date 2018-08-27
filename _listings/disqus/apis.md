@@ -8,11 +8,35 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus
 x-kinRank: "8"
 x-alexaRank: "973"
 tags: Company Data
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Disqus - Organizations Saas Subscribe
+  x-api-slug: organizationssaassubscribe-json-post
+  description: Organizations Saas Subscribe
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus.jpg
+  humanURL: https://disqus.com/
+  baseURL: https://disqus.com/api/3.0/
+  tags: Comments, Social, Content, My API Stack, Stack Network, Stack, Media, internet,
+    Technology, SaaS, API Provider, Profiles, General Data, Relative Data, Pedestal,
+    Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/organizationssaassubscribe-json-post-openapi.md
+- name: Disqus - Organizations Saas Unsubscribe
+  x-api-slug: organizationssaasunsubscribe-json-post
+  description: Organizations Saas Unsubscribe
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus.jpg
+  humanURL: https://disqus.com/
+  baseURL: https://disqus.com/api/3.0/
+  tags: Comments, Social, Content, My API Stack, Stack Network, Stack, Media, internet,
+    Technology, SaaS, API Provider, Profiles, General Data, Relative Data, Pedestal,
+    Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/company-data/master/_listings/disqus/organizationssaasunsubscribe-json-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://digitalocean.api.gallery.streamdata.io
